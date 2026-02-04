@@ -1,5 +1,5 @@
 # CONTEXT
 
-- Current priority: Stand up the `openclaw-work` repository for SOPs, tasks, plans, and builds.
-- Next action: Draft templates and structure for future entries.
-- Reminder: Sync any relevant memory updates back into `memory/` when new important context emerges.
+- Current priority: Stand up the `openclaw-workspace` repository for SOPs, tasks, plans, builds, and lessons learned.
+- Next action: Record every request (SOP, Task, Plan, Build) following the templates under `templates/`.
+- Reminder: Never delete history. Archive completed work when older than 30 days unless still referenced.

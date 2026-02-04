@@ -1,18 +1,28 @@
-# Plan Title
+# PLAN: <Tên kế hoạch>
 
-- **Date:** YYYY-MM-DD
-- **Owner:** CobhamDev / CobhamBot
-- **Goal:** What success looks like.
-- **Horizon:** (e.g., sprint, quarter)
+## Mục tiêu tổng thể
+Mô tả mục tiêu.
 
-## Overview
+## Phạm vi
+- Bao gồm:
+- Không bao gồm:
 
-## Milestones
-1. Milestone 1
-2. Milestone 2
+## Timeline
+| Giai đoạn | Thời gian | Output |
+|-----------|-----------|--------|
 
-## Risks & Mitigations
-- Risk: Mitigation
+## Task liên quan
+- TASK-xxx
+- TASK-yyy
 
-## Next Steps
-- 
+## Rủi ro & phương án
+| Rủi ro | Giải pháp |
+|--------|-----------|
+
+## KPI / Tiêu chí thành công
+- KPI 1
+- KPI 2
+
+---
+
+Last Updated: YYYY-MM-DD

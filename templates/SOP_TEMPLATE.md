@@ -1,20 +1,38 @@
-# SOP Title
+# SOP: <TITLE>
 
-## Purpose
-Why this procedure exists.
+## 1. Mục đích
+Mô tả SOP này dùng để làm gì.
 
-## Scope
-When to use it and who owns it.
+## 2. Phạm vi áp dụng
+- Áp dụng cho:
+- Không áp dụng cho:
 
-## Prerequisites
-What needs to be ready before starting.
+## 3. Điều kiện đầu vào
+- [ ] Tài khoản
+- [ ] Quyền truy cập
+- [ ] Công cụ cần có
 
-## Steps
-1. Step 1
-2. Step 2
+## 4. Quy trình thực hiện
+### Bước 1:
+- Mô tả
+- Output mong muốn
 
-## Verification
-How to confirm success.
+### Bước 2:
+- Mô tả
 
-## Notes
-Additional context, links, or references.
+## 5. Checklist hoàn thành
+- [ ] Bước 1 xong
+- [ ] Bước 2 xong
+
+## 6. Lỗi thường gặp & cách xử lý
+| Lỗi | Nguyên nhân | Cách xử lý |
+|-----|-------------|------------|
+
+## 7. Tài liệu tham khảo
+- Link
+- Repo
+
+---
+
+**Last Updated:** YYYY-MM-DD  
+**Owner:** <name/AI>

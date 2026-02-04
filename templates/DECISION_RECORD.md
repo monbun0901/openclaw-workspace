@@ -12,3 +12,7 @@ Explain why this decision matters.
 
 ## Consequences
 List implications, actions, and next steps.
+
+---
+
+**Last Updated:** YYYY-MM-DD
